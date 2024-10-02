@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Levi Thomas</title>
+    <link>https://levithomas.dev/projects/</link>
+    <description>Recent content in Projects on Levi Thomas</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 May 2024 12:06:51 -0600</lastBuildDate>
+    <atom:link href="https://levithomas.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edmonton GPS Pathfinder</title>
+      <link>https://levithomas.dev/projects/edmontongps/edmontongps/</link>
+      <pubDate>Fri, 03 May 2024 12:06:51 -0600</pubDate>
+      <guid>https://levithomas.dev/projects/edmontongps/edmontongps/</guid>
+      <description>&lt;p&gt;In this project, I developed a server-side application that efficiently calculates the shortest path between two points in Edmonton, using a graph-based approach. The application was primarily intended to interact with a client-side map interface where users can select points directly.&lt;/p&gt;&#xA;&lt;h3 id=&#34;implementation-details&#34;&gt;Implementation Details&lt;/h3&gt;&#xA;&lt;p&gt;The core of the application was built in C++, utilizing Dijkstra&amp;rsquo;s algorithm to navigate through a weighted directed graph representing Edmonton&amp;rsquo;s road network. The coordinates were based on actual geographical data, and paths were calculated using the Manhattan distance to approximate real-world travel distances between points.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BattleDot: An Exercise in Networked Multi-threading</title>
+      <link>https://levithomas.dev/projects/battledot/battledot/</link>
+      <pubDate>Fri, 03 May 2024 12:06:45 -0600</pubDate>
+      <guid>https://levithomas.dev/projects/battledot/battledot/</guid>
+      <description>&lt;p&gt;Using C as the primary programming language, I developed both server and client components that handle game logic and player interactions. The game simulates a scenario where each player targets the next in a circular sequence, attempting to locate and destroy a single-dot ship on their opponent&amp;rsquo;s grid.&lt;/p&gt;&#xA;&lt;h2 id=&#34;roadmap&#34;&gt;Roadmap&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Thread-safe Logging&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Unit Testing&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Fuzz Testing&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Integration Testing&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Cross-Platform Compatibility&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; CI/CD Pipeline&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Serialization&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Docs&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; TUI?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;original-requirements&#34;&gt;Original Requirements&lt;/h2&gt;&#xA;&lt;p&gt;BattleDot is based off an assignment I was given in the past, the original requirements are as follows:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Connect4</title>
+      <link>https://levithomas.dev/projects/connect4/connect4/</link>
+      <pubDate>Fri, 03 May 2024 11:41:55 -0600</pubDate>
+      <guid>https://levithomas.dev/projects/connect4/connect4/</guid>
+      <description>&lt;p&gt;A web app written using Rust and WebAssembly to play connect 4 against a computer opponent&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

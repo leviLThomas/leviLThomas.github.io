@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Connect4 on Levi Thomas</title>
+    <link>https://levithomas.dev/projects/connect4/connect4/</link>
+    <description>Recent content in Connect4 on Levi Thomas</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://levithomas.dev/projects/connect4/connect4/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
