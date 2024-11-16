@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://levithomas.dev/about/</loc>
-    <lastmod>2024-06-15T17:15:57-06:00</lastmod>
-  </url><url>
     <loc>https://levithomas.dev/</loc>
-    <lastmod>2024-06-15T17:15:57-06:00</lastmod>
-  </url><url>
-    <loc>https://levithomas.dev/hero/</loc>
-    <lastmod>2024-06-14T12:06:45-06:00</lastmod>
-  </url><url>
-    <loc>https://levithomas.dev/projects/edmontongps/edmontongps/</loc>
     <lastmod>2024-05-03T12:06:51-06:00</lastmod>
   </url><url>
     <loc>https://levithomas.dev/projects/</loc>
@@ -19,9 +10,6 @@
   </url><url>
     <loc>https://levithomas.dev/projects/battledot/battledot/</loc>
     <lastmod>2024-05-03T12:06:45-06:00</lastmod>
-  </url><url>
-    <loc>https://levithomas.dev/projects/connect4/connect4/</loc>
-    <lastmod>2024-05-03T11:41:55-06:00</lastmod>
   </url><url>
     <loc>https://levithomas.dev/categories/</loc>
   </url><url>
